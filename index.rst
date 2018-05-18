@@ -13,4 +13,11 @@ Generalno, fakturom (u širokoj upotrebi je i termin „račun“) se smatra for
    :name: sek-digitalnafaktura
 
    Stranice/demo
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Faktura
+   :name: sek-strukturalnafaktura
+
+   Stranice/Strukturalna faktura
 
