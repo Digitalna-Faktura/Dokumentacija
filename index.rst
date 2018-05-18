@@ -9,6 +9,8 @@ Generalno, fakturom (u širokoj upotrebi je i termin „račun“) se smatra for
 
 .. toctree::
    :maxdepth: 2
+   :caption: Digitalna Faktura
+   :name: sek-digitalnafaktura
 
    Stranice/demo
 
