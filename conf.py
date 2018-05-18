@@ -84,7 +84,8 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 html_theme_options = {
-    'logo_only': True
+    'logo_only': True,
+    'collapse_navigation': False,
 }
 html_logo = 'Slike/digitalna-faktura-logo-white.png'
 # Add any paths that contain custom static files (such as style sheets) here,
