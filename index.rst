@@ -19,5 +19,5 @@ Generalno, fakturom (u širokoj upotrebi je i termin „račun“) se smatra for
    :caption: Faktura
    :name: sek-strukturalnafaktura
 
-   Stranice/Strukturalna faktura
+   Stranice/StrukturalnaFaktura
 
